@@ -1,0 +1,53 @@
+html {
+    overflow-y: scroll;
+}
+
+body {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.125em;
+    line-height: 1.5em;
+    margin: 0 auto;
+    max-width: 41em;
+}
+
+a {
+    color: #333;
+}
+
+h1, h2 {
+    font-size: 1.4em;
+    font-weight: normal;
+    margin: 0;
+}
+
+strong {
+    font-weight: bold;
+}
+
+i {
+    font-style: italic;
+}
+
+time {
+    color: #666;
+    font-size: 1.1em;
+    font-style: italic;
+}
+
+nav {
+    margin: 0 0 0.8em 0;
+}
+
+.utmost {
+    background-color: #ddd;
+    margin: 0 0 1em 0;
+    padding: 0.92em;
+}
+
+.error, .post {
+    margin: 0 0.92em 1em 0.92em;
+}
+
+.about {
+    margin: 0.8em 0.92em 0.8em 0.92em;
+}
